@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmed Yasser Mohamed
 
-### 🚀 Senior Flutter Developer | Mobile Apps Architect | Firebase Expert
+### 🚀  Flutter Developer | Mobile Apps Architect | Firebase Expert
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Expert;8%2B+Production+Apps+Published;2%2B+Years+Experience;Clean+Architecture+Specialist;Firebase+%26+Cloud+Services;Building+Scalable+Solutions" alt="Typing SVG" />
 
@@ -13,35 +13,8 @@
 
 </div>
 
----
 
-## 💼 Professional Summary
-```dart
-final developer = FlutterDeveloper(
-  name: "Ahmed Yasser Mohamed",
-  location: "Alexandria, Egypt 🇪🇬",
-  experience: "2+ Years",
-  
-  expertise: {
-    "Mobile": ["Flutter", "Dart", "Android", "iOS"],
-    "Backend": ["Firebase", "REST APIs", "Cloud Functions"],
-    "Architecture": ["Clean Architecture", "MVVM", "Bloc Pattern"],
-    "State Management": ["Bloc", "Provider", "GetX", "Riverpod"],
-    "Database": ["Firestore", "SQLite", "Hive", "MongoDB"]
-  },
-  
-  achievements: [
-    "✅ 8+ Apps Published on Google Play",
-    "✅ Thousands of Active Users Worldwide",
-    "✅ 100% Client Satisfaction Rate",
-    "✅ Expert in Firebase Integration",
-    "✅ Former Flutter Instructor"
-  ],
-  
-  currentRole: "Junior Flutter Developer @ AppSoft Co",
-  availability: "Open to opportunities",
-);
-```
+
 
 <div align="center">
 
